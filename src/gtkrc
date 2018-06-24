@@ -1,0 +1,6 @@
+style "text"
+{
+	fg[NORMAL] = "#000000"
+}
+
+widget_class "*GtkLabel*" style "text"
